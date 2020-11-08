@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Team</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/Home">Home</a></li>
+	        	<li><a href="/About">About</a></li>
+        		<li><a href="/">Team</a></li>
+        		<li><a href="/Blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>The aim of the C!ub is to revolutionize the student organization experience for college students in North America.</h1>
+				<p>Welcome to the C!lub<a href="/about">Read more about our startup...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:kelvin.mo@hotmail.com">email</a></li>
+        		<li><a href="https://github.com/kelvinmo25/Team">github.com/kelvinmo25</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
